@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "outDir": "./dist",
+      "rootDir": "./CRUD/typeScript",
+      "strict": true,
+      "esModuleInterop": true
+    },
+    "include": [
+      "CRUD/typeScript/**/*.ts"
+    ],
+    "exclude": [
+      "node_modules",
+      "dist"
+    ]
+  }
+  
